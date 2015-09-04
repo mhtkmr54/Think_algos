@@ -27,7 +27,10 @@
 # where:
 #    inner_product(x,y) = x1*y1 + x2*y2 + ... xn*yn
 #    norm(x) = sqrt(inner_product(x,x))
+"""
+k = no. char  aline 
 
+"""
 import math
     # math.acos(x) is the arccosine of x.
     # math.sqrt(x) is the square root of x.

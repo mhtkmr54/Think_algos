@@ -146,3 +146,8 @@ def main():
 if __name__ == "__main__":
     import cProfile
     cProfile.run("main()")
+"""
+on profiler to identify the code that takes up the most
+CPU time. This ensures that we get the biggest returns on our optimiza
+python -m cProfile -s time program.py
+"""
