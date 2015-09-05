@@ -118,7 +118,7 @@ def inner_product(L1,L2):
 
     Example: inner_product([["and",3],["of",2],["the",5]],
                            [["and",4],["in",1],["of",1],["this",2]]) = 14.0 
-    """
+cd    """
     sum = 0.0
     for word1, count1 in L1:
         for word2, count2 in L2:
